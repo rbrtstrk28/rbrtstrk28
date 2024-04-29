@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rbrtstrk28
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Phython.
+- 👋 Hi, I’m Tusshar Chakrabarty
+- 👀 I’m interested in AI, Game Development.
+- 🌱 Developing dream skills.
 - 📫 Contact me on reetchakrabarty@gmail.com
 
 <!---
